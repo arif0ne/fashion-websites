@@ -1,3 +1,7 @@
+
+<?php
+
+?>
  <!-- Products Section Here -->
  <section class="section products">
             <div class="title">
