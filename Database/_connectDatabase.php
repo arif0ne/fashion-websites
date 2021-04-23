@@ -16,6 +16,7 @@ class DBController{
         if ($this->con->connect_error) {
          echo"Fail".$this->con->connect_error;
         }
+        
     }
 
     public function __destruct()
